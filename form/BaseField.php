@@ -1,8 +1,8 @@
 <?php
 
-namespace app\core\form;
+namespace nathanpakenham\core\form;
 
-use app\core\Model;
+use nathanpakenham\core\Model;
 
 abstract class BaseField
 {

@@ -11,5 +11,10 @@
             "email": "nathan@nathanpakenham.com"
         }
     ],
-    "require": {}
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "nathanpakenham\\core": "./"
+        }
+    }
 }

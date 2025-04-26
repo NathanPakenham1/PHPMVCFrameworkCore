@@ -1,8 +1,8 @@
 <?php
 
-namespace app\core;
+namespace nathanpakenham\core;
 
-use app\core\exception\notFoundException;
+use nathanpakenham\core\exception\notFoundException;
 
 class Router
 {

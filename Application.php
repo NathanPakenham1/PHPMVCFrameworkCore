@@ -1,9 +1,9 @@
 <?php
 
-namespace app\core;
+namespace nathanpakenham\core;
 
-use app\core\db\Database;
-use app\core\db\DbModel;
+use nathanpakenham\core\db\Database;
+use nathanpakenham\core\db\DbModel;
 use Exception;
 
 class Application
