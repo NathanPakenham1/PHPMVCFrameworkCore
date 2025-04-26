@@ -1,0 +1,15 @@
+{
+    "name": "nathanpakenham/core",
+    "autoload": {
+        "psr-4": {
+            "Nathanpakenham\\Core\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "NathanPakenham1",
+            "email": "nathan@nathanpakenham.com"
+        }
+    ],
+    "require": {}
+}
